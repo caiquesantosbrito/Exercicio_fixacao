@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\bin\Debug\netcoreapp3.1\Exercício 6.exe
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\bin\Debug\netcoreapp3.1\Exercício 6.deps.json
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\bin\Debug\netcoreapp3.1\Exercício 6.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\bin\Debug\netcoreapp3.1\Exercício 6.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\bin\Debug\netcoreapp3.1\Exercício 6.dll
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\bin\Debug\netcoreapp3.1\Exercício 6.pdb
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.dll
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.pdb
+C:\Users\caisb\OneDrive\Desktop\Exercícios de fixação\Exercício 6\obj\Debug\netcoreapp3.1\Exercício 6.genruntimeconfig.cache
